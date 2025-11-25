@@ -14,3 +14,6 @@ app.use('/api/juegos', require('./routes/juegoRoute'));
 app.use('/api/resenas', require('./routes/resenaRoute'));
 
 module.exports = app;
+
+
+
